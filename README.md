@@ -1,3 +1,2 @@
-[heart_cleveland_upload.csv](https://github.com/user-attachments/files/19794069/heart_cleveland_upload.csv)# Python_Perceptron_Model_for_Binary_Classification_on_Kaggle_Dataset_using_sklearn
-dataset = [Uploading heart_cleveland_upload.csv…]()
-
+# Python_Perceptron_Model_for_Binary_Classification_on_Kaggle_Dataset_using_sklearn
+[heart_cleveland_upload.csv](https://github.com/user-attachments/files/19794069/heart_cleveland_upload.csv)
